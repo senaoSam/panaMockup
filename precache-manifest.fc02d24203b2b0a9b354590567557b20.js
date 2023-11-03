@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb6d85e8a92b01f62a42326567193d36",
+    "revision": "e62d942f700904aff6d6bb9274967cf4",
     "url": "/panaMockup/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/panaMockup/static/css/2.c843896d.chunk.css"
   },
   {
-    "revision": "cec657f1cb42773542af",
-    "url": "/panaMockup/static/css/main.a4c81cd1.chunk.css"
+    "revision": "04274271a4b9760f75ee",
+    "url": "/panaMockup/static/css/main.0969f867.chunk.css"
   },
   {
     "revision": "e11a0d7a5d31fa0a429c",
@@ -20,12 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/panaMockup/static/js/2.16f3d718.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cec657f1cb42773542af",
+    "revision": "04274271a4b9760f75ee",
     "url": "/panaMockup/static/js/main.3f611144.chunk.js"
   },
   {
     "revision": "582d39406a373adec88e",
     "url": "/panaMockup/static/js/runtime-main.3392421b.js"
+  },
+  {
+    "revision": "1a001a81c8496f4e806aa94fd5926e0a",
+    "url": "/panaMockup/static/media/PUDHinbanM.1a001a81.otf"
   },
   {
     "revision": "858f64bd17dcd2fb844932eb3c31062d",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/panaMockup/precache-manifest.a76516d1ba9b6f1dc1625ab3a08bca4e.js"
+  "/panaMockup/precache-manifest.fc02d24203b2b0a9b354590567557b20.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/panaMockup/static/css/main.a4c81cd1.chunk.css",
+    "main.css": "/panaMockup/static/css/main.0969f867.chunk.css",
     "main.js": "/panaMockup/static/js/main.3f611144.chunk.js",
     "runtime-main.js": "/panaMockup/static/js/runtime-main.3392421b.js",
     "static/css/2.c843896d.chunk.css": "/panaMockup/static/css/2.c843896d.chunk.css",
     "static/js/2.16f3d718.chunk.js": "/panaMockup/static/js/2.16f3d718.chunk.js",
     "index.html": "/panaMockup/index.html",
-    "precache-manifest.a76516d1ba9b6f1dc1625ab3a08bca4e.js": "/panaMockup/precache-manifest.a76516d1ba9b6f1dc1625ab3a08bca4e.js",
+    "precache-manifest.fc02d24203b2b0a9b354590567557b20.js": "/panaMockup/precache-manifest.fc02d24203b2b0a9b354590567557b20.js",
     "service-worker.js": "/panaMockup/service-worker.js",
     "static/js/2.16f3d718.chunk.js.LICENSE.txt": "/panaMockup/static/js/2.16f3d718.chunk.js.LICENSE.txt",
+    "static/media/main.sass": "/panaMockup/static/media/PUDHinbanM.1a001a81.otf",
     "static/media/analyze.858f64bd.svg": "/panaMockup/static/media/analyze.858f64bd.svg",
     "static/media/angle-up.60d89147.svg": "/panaMockup/static/media/angle-up.60d89147.svg",
     "static/media/arrowfrom.7ce61070.svg": "/panaMockup/static/media/arrowfrom.7ce61070.svg",
@@ -26,7 +27,7 @@
     "static/js/runtime-main.3392421b.js",
     "static/css/2.c843896d.chunk.css",
     "static/js/2.16f3d718.chunk.js",
-    "static/css/main.a4c81cd1.chunk.css",
+    "static/css/main.0969f867.chunk.css",
     "static/js/main.3f611144.chunk.js"
   ]
 }
