@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/panaMockup/static/css/main.a4c81cd1.chunk.css",
+    "main.js": "/panaMockup/static/js/main.3f611144.chunk.js",
+    "runtime-main.js": "/panaMockup/static/js/runtime-main.3392421b.js",
+    "static/css/2.c843896d.chunk.css": "/panaMockup/static/css/2.c843896d.chunk.css",
+    "static/js/2.16f3d718.chunk.js": "/panaMockup/static/js/2.16f3d718.chunk.js",
+    "index.html": "/panaMockup/index.html",
+    "precache-manifest.a76516d1ba9b6f1dc1625ab3a08bca4e.js": "/panaMockup/precache-manifest.a76516d1ba9b6f1dc1625ab3a08bca4e.js",
+    "service-worker.js": "/panaMockup/service-worker.js",
+    "static/js/2.16f3d718.chunk.js.LICENSE.txt": "/panaMockup/static/js/2.16f3d718.chunk.js.LICENSE.txt",
+    "static/media/analyze.858f64bd.svg": "/panaMockup/static/media/analyze.858f64bd.svg",
+    "static/media/angle-up.60d89147.svg": "/panaMockup/static/media/angle-up.60d89147.svg",
+    "static/media/arrowfrom.7ce61070.svg": "/panaMockup/static/media/arrowfrom.7ce61070.svg",
+    "static/media/checkCircle.df2893cb.svg": "/panaMockup/static/media/checkCircle.df2893cb.svg",
+    "static/media/detail.4a801335.svg": "/panaMockup/static/media/detail.4a801335.svg",
+    "static/media/diagSwitch.svg": "/panaMockup/static/media/diagSwitch.6f3c8012.svg",
+    "static/media/errorboundary.svg": "/panaMockup/static/media/errorboundary.f0a0e582.svg",
+    "static/media/filecog.5449addc.svg": "/panaMockup/static/media/filecog.5449addc.svg",
+    "static/media/key.cbdfe25a.svg": "/panaMockup/static/media/key.cbdfe25a.svg",
+    "static/media/pen.svg": "/panaMockup/static/media/pen.720fb402.svg",
+    "static/media/index.css": "/panaMockup/static/media/roboto-latin-900italic.ebf6d164.woff2",
+    "static/media/serverSolid.2ab364c4.svg": "/panaMockup/static/media/serverSolid.2ab364c4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3392421b.js",
+    "static/css/2.c843896d.chunk.css",
+    "static/js/2.16f3d718.chunk.js",
+    "static/css/main.a4c81cd1.chunk.css",
+    "static/js/main.3f611144.chunk.js"
+  ]
+}
